@@ -1,0 +1,6 @@
+projectKey=Example-Javascript-GitHub
+serverUrl=https://sri.eu.ngrok.io
+serverVersion=10.0.0.68432
+dashboardUrl=https://sri.eu.ngrok.io/dashboard?id=Example-Javascript-GitHub
+ceTaskId=AYgkdTWkiLs7PKK52IiZ
+ceTaskUrl=https://sri.eu.ngrok.io/api/ce/task?id=AYgkdTWkiLs7PKK52IiZ
